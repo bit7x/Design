@@ -9,7 +9,7 @@ namespace Singelton
 			ITarget target = new EmployeeAdapter ();
 			ThirdPartyBillingSystem client = new ThirdPartyBillingSystem (target);
 			client.showEmployeeList ();
-			Console.ReadKey ();
+			Console.ReadLine ();
 		}
 	}
 }

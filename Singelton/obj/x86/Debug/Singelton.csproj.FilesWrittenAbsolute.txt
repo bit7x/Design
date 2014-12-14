@@ -3,3 +3,8 @@
 /Users/nethmi/Projects/Singelton/Singelton/bin/Debug/Singelton.exe
 /Users/nethmi/Projects/Singelton/Singelton/obj/x86/Debug/Singelton.exe
 /Users/nethmi/Projects/Singelton/Singelton/obj/x86/Debug/Singelton.exe.mdb
+/Users/nethmi/Documents/Git/Design/Singelton/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/nethmi/Documents/Git/Design/Singelton/bin/Debug/Singelton.exe.mdb
+/Users/nethmi/Documents/Git/Design/Singelton/bin/Debug/Singelton.exe
+/Users/nethmi/Documents/Git/Design/Singelton/obj/x86/Debug/Singelton.exe
+/Users/nethmi/Documents/Git/Design/Singelton/obj/x86/Debug/Singelton.exe.mdb
