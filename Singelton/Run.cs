@@ -10,6 +10,11 @@ namespace Singelton
 			ThirdPartyBillingSystem client = new ThirdPartyBillingSystem (target);
 			client.showEmployeeList ();
 			Console.ReadLine ();
+
+			ProxyClient proxy = new ProxyClient();
+			Console.WriteLine("Data from Proxy Client = {0}", proxy.GetData());
+
+			Console.ReadKey();
 		}
 	}
 }

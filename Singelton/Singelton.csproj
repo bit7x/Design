@@ -47,11 +47,15 @@
     <Compile Include="Adapter_Pattern\EmployeeAdapter.cs" />
     <Compile Include="Run.cs" />
     <Compile Include="Adapter_Pattern\ThirdPartyBillingSystem.cs" />
+    <Compile Include="Proxy_Pattern\IClient.cs" />
+    <Compile Include="Proxy_Pattern\RealClient.cs" />
+    <Compile Include="Proxy_Pattern\ProxyClient.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <Folder Include="Adapter_Pattern\" />
     <Folder Include="Command_Pattern\" />
     <Folder Include="Singelton_Pattern\" />
+    <Folder Include="Proxy_Pattern\" />
   </ItemGroup>
 </Project>
